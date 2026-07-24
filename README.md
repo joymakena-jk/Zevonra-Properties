@@ -1,4 +1,5 @@
-Zevonra Properties
+#Zevonra Properties
+
 Zevonra Properties is a luxury real estate front-end website designed to showcase premium homes, villas, and penthouses through a rich, interactive browsing experience. The project was built to strengthen my understanding of HTML, CSS, and JavaScript by creating a fully responsive, image-heavy website with real interactivity from scratch.
 
 Features
