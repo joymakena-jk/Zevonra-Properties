@@ -1,92 +1,102 @@
-#Zevonra Properties
+# Zevonra Properties
 
-Zevonra Properties is a luxury real estate front-end website designed to showcase premium homes, villas, and penthouses through a rich, interactive browsing experience. The project was built to strengthen my understanding of HTML, CSS, and JavaScript by creating a fully responsive, image-heavy website with real interactivity from scratch.
+Zevonra Properties is a modern luxury-inspired front-end real estate website that showcases premium homes, elegant architecture, and refined living through an immersive digital experience. The project was built to strengthen my understanding of HTML, CSS, and JavaScript by creating a fully responsive, visually engaging, and interactive website from scratch.
 
-Features
+## Features
 
-* Cinematic rotating hero section with synced image and subtitle transitions
-* Responsive navigation bar with a working mobile menu and active-link highlighting
-* Featured Properties showcase with a details modal for each listing
-* Animated statistics section with count-up numbers on scroll
-* Interiors and Lifestyle sections with clickable images
-* Horizontally scrolling property gallery with rotating image collages per category
-* Full-screen lightbox for interiors, lifestyle, and gallery images
-* Meet the Team section with individual profiles
-* Animated testimonial cards with staggered star ratings
-* Scroll reveal animations throughout the site
-* Ambient sparkle and shimmer accents for a premium feel
+* Full-screen cinematic hero section with typewriter animation
+* Responsive navigation bar with smooth scrolling
+* About section introducing Zevonra Properties
+* Featured luxury property showcase
+* Interior design collection
+* Lifestyle experience section
+* Interactive property gallery
+* Meet the Team section
+* Client testimonial slider with automatic transitions
+* Scroll reveal animations
+* Cursor glow effect
+* Button ripple animations
 * Back-to-top button
-* Contact section with inquiry form
+* Active navigation highlighting
 * Responsive design for desktop, tablet, and mobile devices
-* Images hosted and optimized via Cloudinary
+* Premium real estate-inspired interface with elegant hover effects
 
-Built With
+## Built With
 
 * HTML5
 * CSS3
 * JavaScript (Vanilla JavaScript)
-* Cloudinary (image hosting and delivery)
 
-Project Goals
+## Project Goals
+
 The goal of this project was to:
 
 * Practice semantic HTML structure
-* Improve CSS layout, responsiveness, and animations
+* Improve CSS layouts, responsiveness, and animations
 * Strengthen JavaScript DOM manipulation and event handling
 * Build a fully responsive website without using front-end frameworks such as Bootstrap
-* Create a modern, image-driven luxury interface with interactive features and a smooth user experience
+* Create a premium real estate-inspired user interface with interactive features and a seamless user experience
 
-Project Structure
+## Project Structure
 
-```
+```text
 Zevonra-Properties/
 │
 ├── index.html
 ├── style.css
-└── script.js
-
+├── script.js
+└── images/
 ```
-Note: property, gallery, and team images are hosted externally on Cloudinary and referenced by URL, so no local images folder is required.
 
-Highlights
+## Highlights
 
-* Rotating hero showcase with cinematic zoom effect
-* Interactive property cards with a live details modal
-* Animated statistics section
-* Horizontally scrolling gallery with rotating image collages
-* Full-screen lightbox across interiors, lifestyle, and gallery
-* Animated, staggered testimonial cards
+* Cinematic hero section with animated title
+* Elegant luxury-inspired interface
+* Interactive property showcase
+* Beautiful interior collections
+* Lifestyle-inspired sections
+* Automatic testimonial slider
+* Smooth scrolling navigation
+* Scroll reveal animations
+* Cursor glow and ripple button effects
+* Responsive gallery layout
 * Fully responsive across desktop, tablet, and mobile devices
 
-Live Demo
+## Live Demo
+
 Visit the live website here:
+
 https://joymakena-jk.github.io/Zevonra-Properties/
 
-Lessons Learned
+## Lessons Learned
+
 This project helped me gain practical experience with:
 
 * HTML document structure
-* CSS Flexbox, Grid, and scroll-snap layouts
+* CSS Flexbox and Grid layouts
 * Responsive web design
 * CSS transitions and animations
 * DOM manipulation
 * Event listeners
 * Intersection Observer API
-* Building and wiring modal and lightbox components
-* Working with an external CDN for image hosting and optimization
+* Interactive user interfaces
 * Organizing front-end projects
-* Creating polished, user-friendly web experiences
+* Creating polished, user-focused web experiences
 
-Future Improvements
+## Future Improvements
 
-* Connect the contact form to a live delivery service
-* Add property filtering and search
-* Introduce a full property detail page per listing
+* Add advanced property search and filtering
+* Integrate an inquiry and viewing request system
+* Add interactive maps for property locations
+* Include virtual property tours
 * Add dark and light theme support
-* Improve accessibility further
-* Add pagination or "load more" to the gallery
-* Introduce subtle ambient luxury-themed animations
+* Improve accessibility
+* Optimize image loading and website performance
+* Connect the contact section to a working contact form
+* Introduce subtle luxury-inspired animations throughout the website
 
-Author
-Makena
+## Author
+
+**Makena**
+
 This project was created for learning and portfolio purposes.
